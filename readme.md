@@ -7,6 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 ## About Hotel Manager 
+
 You firstly need to migrate --seed to have an user.
 
 ## About Laravel
